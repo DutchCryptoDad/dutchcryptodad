@@ -12,14 +12,13 @@ If you like my content and want to support me, please become a patreon (https://
 
 Thank you very much!
 
-# Tip jar:
-BTC - bc1qd5k84wekgza47l8l60qy26pf52enrg9vj2at8z
-ETH - 0x5f5B00A7296037Ce5E20f4afd1f691fF8EC9C5A9
-SOL - 8MxPPdgbb6ydsvS8Ygow8mggRGWdMh2rBanm13CN4qZ1
-DOGE - DFFxHTgdABJt5EShRvStacC921B1A76FBb
-ADA - addr1q9r28js8xtlzl2etmz5pd9smalulaqeteuh9vy8x4kz2eh2x509qwvh7974jhk9gz6tphmlel6pjhnew2cgwdtvy4nwsk27zay
-DOT - 12yp9rQtzgaNhfzVGysReE4yGKVbz33zvB34Zc8amvM6shMn
-LINK - 0x5f5B00A7296037Ce5E20f4afd1f691fF8EC9C5A9
+### Tip jar:
+
+* BTC - bc1qd5k84wekgza47l8l60qy26pf52enrg9vj2at8z
+* ETH - 0x5f5B00A7296037Ce5E20f4afd1f691fF8EC9C5A9
+* SOL - 8MxPPdgbb6ydsvS8Ygow8mggRGWdMh2rBanm13CN4qZ1
+* DOGE - DFFxHTgdABJt5EShRvStacC921B1A76FBb
+* ADA - addr1q9r28js8xtlzl2etmz5pd9smalulaqeteuh9vy8x4kz2eh2x509qwvh7974jhk9gz6tphmlel6pjhnew2cgwdtvy4nwsk27zay
 
 <!--
 **DutchCryptoDad/dutchcryptodad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
