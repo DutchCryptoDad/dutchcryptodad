@@ -14,11 +14,11 @@ Thank you very much!
 
 ### Tip jar:
 
-* BTC - bc1qd5k84wekgza47l8l60qy26pf52enrg9vj2at8z
-* ETH - 0x5f5B00A7296037Ce5E20f4afd1f691fF8EC9C5A9
-* SOL - 8MxPPdgbb6ydsvS8Ygow8mggRGWdMh2rBanm13CN4qZ1
-* DOGE - DFFxHTgdABJt5EShRvStacC921B1A76FBb
-* ADA - addr1q9r28js8xtlzl2etmz5pd9smalulaqeteuh9vy8x4kz2eh2x509qwvh7974jhk9gz6tphmlel6pjhnew2cgwdtvy4nwsk27zay
+* BTC 💰 : 12mjuhTzXuGt4uYPZbtNLgKxYvJG2RJTuo
+* ETH 💰 : 0x8F874ead2eedF456Abb5C57cBE1501A56E3e826a
+* USDT 💰 : 0x8F874ead2eedF456Abb5C57cBE1501A56E3e826a
+* SOL 💰 : 97JHyYVjXus1LQQmw6WnidtKcDqMqCxNGEAFkJksdsm6
+
 
 <!--
 **DutchCryptoDad/dutchcryptodad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
