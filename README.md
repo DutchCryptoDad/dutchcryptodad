@@ -8,7 +8,7 @@ This is my github directory which contains code or other stuff for the following
 I am currently moving stuff around to make things easier to manage and also make a single point of reference to all content I create.
 Therefore you may see stuff suddenly dissapear from this Github repository. But don't worry!
 
-## Everything will be moved to my new website around algotrading with trading bots (and more): [dutchalgotrading.com](dutchalgotrading.com)
+## Everything will be moved to my [Patreon environment](https://www.patreon.com/dutchalgotrading)
 
 
 - My Youtube video's: https://www.youtube.com/@dutchalgotrading
