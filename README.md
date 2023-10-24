@@ -1,3 +1,8 @@
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Ddutchalgotrading%26type%3Dpatrons&style=flat)](https://patreon.com/dutchalgotrading)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-AOcefy1x7lTc17JiqaxqA)
+](https://www.youtube.com/@dutchalgotrading)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-AOcefy1x7lTc17JiqaxqA)](https://www.youtube.com/@dutchalgotrading)
+
 ### Hi there 👋
 
 I'm just a regular Dutch dad with a passion for crypto, trading, technology and learning. This channel is my personal journey into the world of Crypto, blockchain, programming, trading bots, trading strategies, NFT's, Defi and many things more related to digital assets. I want to share my knowledge with others to help them as well in this vast world of digital assets. 
