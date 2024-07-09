@@ -3,19 +3,35 @@
 ](https://www.youtube.com/@dutchalgotrading)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-AOcefy1x7lTc17JiqaxqA)](https://www.youtube.com/@dutchalgotrading)
 
-### Hi there 👋
+## Hi there 👋
 
-I'm just a regular Dutch dad with a passion for crypto, trading, technology and learning. This channel is my personal journey into the world of Crypto, blockchain, programming, trading bots, trading strategies, NFT's, Defi and many things more related to digital assets. I want to share my knowledge with others to help them as well in this vast world of digital assets. 
+This is my github directory which contains free code or other stuff I find worth saving.
 
-This is my github directory which contains code or other stuff for the following social media
+## Social
 
-# ANNOUNCEMENT
-I am currently moving stuff around to make things easier to manage and also make a single point of reference to all content I create.
-Therefore you may see stuff suddenly dissapear from this Github repository. But don't worry!
+See my [Youtube channel](youtube.com/channel/UC-AOcefy1x7lTc17JiqaxqA?sub_confirmation=1) for [Freqtrade tutorials](https://www.youtube.com/watch?v=VHvikJmQrVM&list=PL8gq8aFDPpbNEx4lUvpmRjxtCkjvX-Jpg), [Tradingview knowledge](https://www.youtube.com/watch?v=aQSC-W8oYdw&list=PL8gq8aFDPpbNyIFWaQMovp9dSjDhAQcsd) and [video's about trading strategies and algorithms I tested](https://www.youtube.com/watch?v=Jj9MSzHwa44&list=PL8gq8aFDPpbNthwcFtdTjt6i9zoLmq6zO).
 
-## Everything will be moved to my [Patreon environment](https://www.patreon.com/dutchalgotrading)
+See my [Patreon page](https://www.patreon.com/dutchalgotrading) for all the algorithmic strategies code (trading algorithms and automated backtests). These are all based on the [Freqtrade](https://github.com/freqtrade) trading bot btw.
 
+For the Strategy League (an overview of all the trading strategies/algorithms I tested) go to [dutchalgotrading.com](https://www.dutchalgotrading.com/). Ths league contains a ranked list with all the tested strategies I present on my [Youtube channel](youtube.com/channel/UC-AOcefy1x7lTc17JiqaxqA?sub_confirmation=1) and [Patreon page](https://www.patreon.com/dutchalgotrading)
 
-- My Youtube video's: https://www.youtube.com/@dutchalgotrading
-- My Patreon on https://www.patreon.com/dutchcryptodad
+## Support and donations
 
+You can support my work by becoming a Patron on [Patreon](https://www.patreon.com/dutchalgotrading). 
+
+For one-time donations you can visit [Ko-fi.com](https://ko-fi.com/dutchcryptodad)
+
+Or send some crypto to the following addresses:
+* BTC : 
+* ETH :
+* DOGE:
+* SOL : 
+* PEPE:
+* WIF :
+* SHIB:
+
+## Thankxx
+
+Thank you for being a visitor, subscriber, supporter and contributer. And I hope that you find what you are looking for.
+
+Goodbye!!
