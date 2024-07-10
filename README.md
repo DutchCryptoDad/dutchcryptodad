@@ -22,13 +22,13 @@ You can support my work by becoming a Patron on [Patreon](https://www.patreon.co
 For one-time donations you can visit [Ko-fi.com](https://ko-fi.com/dutchcryptodad)
 
 Or send some crypto to the following addresses:
-* BTC : 
-* ETH :
-* DOGE:
-* SOL : 
-* PEPE:
-* WIF :
-* SHIB:
+* BTC : bc1qrtmdycvzc2vntx5jmg86qysnsm6h3xa9valu0e
+* ETH : 0xa27966A67F8B1225116509f6503EDf0534DE2927
+* DOGE: DEPuQLhViQDtZcyXtaqqLSPQWmMs5cckht
+* SOL : FDiyWgFRsLAMCuzAiuDe9yZ8BYsVnn244zYfqEz7bWom
+* ADA : addr1qxyr5xxvp52vf9zmpt8gtxfnkfjs5gzxh0sm2j504wgsr2vg8gvvcrg5cj29kzkwskvn8vn9pgsydwlpk49gl2u3qx5spl8gf4
+* PEPE: 0xa27966A67F8B1225116509f6503EDf0534DE2927
+* SHIB: 0xa27966A67F8B1225116509f6503EDf0534DE2927
 
 ## Thankxx
 
